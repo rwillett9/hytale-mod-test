@@ -1,12 +1,12 @@
 {
   "Group": "dev.hytalemodding",
-  "Name": "ExamplePlugin",
-  "Version": "${version}",
-  "Description": "Description of your plugin",
+  "Name": "Ryguy's Commands",
+  "Version": "v0.0.1",
+  "Description": "Just some test commands to mess with Hytale modding :)",
   "Authors": [
     {
-      "Name": "Your Name",
-      "Email": "your.email@example.com",
+      "Name": "Ryan Willett",
+      "Email": "rjw4321dev@gmail.com",
       "Url": "https://your-website.com"
     }
   ],
@@ -16,5 +16,5 @@
   "OptionalDependencies": {},
   "DisabledByDefault": false,
   "IncludesAssetPack": false,
-  "Main": "dev.hytalemodding.ExamplePlugin"
+  "Main": "dev.hytalemodding.TestPlugin"
 }
